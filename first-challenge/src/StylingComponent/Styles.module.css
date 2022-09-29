@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #2e2e2e;
+    flex-wrap: wrap;
+    height: 90vh;
+}
+
+.module{
+    background-color: DeepPink;
+    color: #fff;
+    width: 250px;
+    display: block;
+    text-align: center;
+    padding:10px 0px;
+    border: 2px solid #fff;
+}
+
