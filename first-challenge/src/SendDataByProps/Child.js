@@ -1,6 +1,6 @@
 const Child = (props) => {
     return(
-        <h1>{props.message}</h1>
+        <h2>{props.message}</h2>
     )
 }
 
