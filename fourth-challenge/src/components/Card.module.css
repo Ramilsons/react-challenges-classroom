@@ -1,0 +1,20 @@
+.card{
+    width: 230px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    margin-right: 20px;
+    background-color: #fff;
+    height: 350px;
+}
+
+.img{
+    width: 100%;
+}
+
+.name{
+    font-size: 18px;
+    color: rgb(43, 43, 43);
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
